@@ -1,0 +1,7 @@
+num1 = input("Enter your number")
+num2 = input("Enter your second number")
+result = float(num1) + float(num2)
+
+print(result)
+ 
+ #Thank you for looking at my calculator XD
